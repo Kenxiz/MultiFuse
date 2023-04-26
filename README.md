@@ -24,7 +24,7 @@ MultiFuse's encryption and decryption feature provides a simple and secure way t
 
 ### Chat AI
 
-MultiFuse's chat AI feature is a powerful way to incorporate AI chatbots into a project. This feature includes a range of pre-built chatbot models, as well as the ability to customize them using the OpenAI API.
+MultiFuse's chat AI feature is a powerful way to incorporate AI chatbots into a project. This feature includes a range of pre-built chatbot models, as well as the ability to customize them using the OpenAI API. Customization is limited to the free OpenAI ChatGPT models.
 
 ### More Features Coming Soon
 
