@@ -14,10 +14,6 @@ With MultiFuse's JSON manipulation feature, developers can easily read, write, a
 
 MultiFuse's Database Management System feature enables developers to easily store and retrieve data from both JSON and SQL databases. This feature provides a lightweight and efficient way to handle data storage within a project, without the need for a full-scale database system.
 
-### Account Management System
-
-MultiFuse's account management system feature is designed to provide a simple and secure way to manage user accounts within a project. The feature includes a range of functions for user authentication and password management.
-
 ### Encryption/Decryption
 
 MultiFuse's encryption and decryption feature provides a simple and secure way to encrypt and decrypt data within a project. This feature includes a range of encryption algorithms, including AES and RSA, to ensure that data is kept secure.
