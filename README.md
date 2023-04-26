@@ -10,9 +10,9 @@ MultiFuse offers the following features:
 
 With MultiFuse's JSON manipulation feature, developers can easily read, write, and manipulate JSON data in their projects. The package provides a range of functions for handling JSON data, including parsing and serializing.
 
-### JSON Database
+### Database Management System
 
-MultiFuse's JSON database feature allows developers to easily store and retrieve data from a JSON database. This feature provides a lightweight and efficient way to handle data storage within a project, without the need for a full-scale database.
+MultiFuse's Database Management System feature enables developers to easily store and retrieve data from both JSON and SQL databases. This feature provides a lightweight and efficient way to handle data storage within a project, without the need for a full-scale database system.
 
 ### Account Management System
 
