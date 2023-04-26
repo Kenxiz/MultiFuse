@@ -16,7 +16,7 @@ MultiFuse's Database Management System feature enables developers to easily stor
 
 ### Encryption/Decryption
 
-MultiFuse's encryption and decryption feature provides a simple and secure way to encrypt and decrypt data within a project. This feature includes a range of encryption algorithms, including AES and RSA, to ensure that data is kept secure.
+MultiFuse's encryption and decryption feature provides a simple and secure way to encrypt and decrypt data within a project. This feature uses AES (Advanced Encryption Standard), to ensure that data is kept secure.
 
 ### Chat AI
 
