@@ -1,4 +1,4 @@
-# MultiFuse
+# MultiFuse (COMING SOON)
 
 MultiFuse is an NPM package that offers a comprehensive set of features for developers. It is designed to provide a simple, yet powerful way to add multiple functionalities to a project, without the need to rely on multiple packages or modules.
 
